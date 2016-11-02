@@ -8,4 +8,6 @@ The aim for this project is to develop three-dimensional non-linear finite eleme
 # Pre and Post Processor
 The program is prepared to use SALOME for both the pre and post processor.
 
-#
+# Supported Element
+- 8-Noded hexahedral [Full (8,27 GP),Reduced (1 GP) and Selective (BBar-Element) Integrations are supported]
+- 20-noded hexahedral element  [Full (27 GP) and Reduced (8 GP) integrations are supported]
