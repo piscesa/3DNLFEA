@@ -29,8 +29,9 @@ The program is prepared to use SALOME [1] for both the pre and post processor.
 - Initial Stiffness Method with Acceleration.
 - Modifed Newton Rhapson
 - Full Newton Rhapson
-- Arc-Length Method (Riks, Crisfield)
-- 
+- Arc Length Method (Riks, Crisfield)
+- Line Search
+- Orthogonal Residual Method (Krenk)
 
 # References
 1. SALOME - The Open Source Integration Platform for Numerical Simulation. http://www.salome-platform.org.
