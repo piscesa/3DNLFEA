@@ -23,3 +23,8 @@ The program is prepared to use SALOME for both the pre and post processor.
 - Piscesa et. al. plasticity model [2016] with constant and non-constant plastic dilation rate.
 - Piscesa et. al. plasticity-Fracture model [Est. 2017] with constant and non-constant plastic dilation rate.
 - Mazar et. al. damage model [2016]
+
+# References
+[1] SALOME http://www.salome-platform.org
+[2] Papanikolaou VK, Kappos AJ. Confinement-sensitive plasticity constitutive model for concrete in triaxial compression. International Journal of Solids and Structures. 2007;44:7021-48.
+[3] 
