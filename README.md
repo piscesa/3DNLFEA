@@ -13,3 +13,13 @@ The program is prepared to use SALOME for both the pre and post processor.
 - 20-noded hexahedral element  [Full (27 GP) and Reduced (8 GP) integrations are supported]
 - 2-noded discrete truss element
 - 2-noded embedded truss element [At the moment, only work with 8-Noded hexahedral element]
+
+# Supported Constitutive Model
+- Von-Misses (J2-Plasticity) with elastic-perfectly plastic material behavior.
+- Von-Misses (J2-Plasticity) with hardening or softening parameter.
+- Rankine-Fracture plasticity model with size dependent softening function.
+- Papanikolau et. al. plasticity model [2007].
+- Bao et. al. plasticity model [2013].
+- Piscesa et. al. plasticity model [2016] with constant and non-constant plastic dilation rate.
+- Piscesa et. al. plasticity-Fracture model [Est. 2017] with constant and non-constant plastic dilation rate.
+- Mazar et. al. damage model [2016]
