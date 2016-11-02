@@ -25,6 +25,8 @@ The program is prepared to use SALOME for both the pre and post processor.
 - Mazar et. al. damage model [2016]
 
 # References
-[1] SALOME http://www.salome-platform.org
+[1] SALOME - The Open Source Integration Platform for Numerical Simulation. http://www.salome-platform.org
+
 [2] Papanikolaou VK, Kappos AJ. Confinement-sensitive plasticity constitutive model for concrete in triaxial compression. International Journal of Solids and Structures. 2007;44:7021-48.
-[3] 
+
+[3] Bao J, Long X, Tan KH, Lee CK. A new generalized Drucker–Prager flow rule for concrete under compression. Engineering structures. 2013;56:2076-82.
