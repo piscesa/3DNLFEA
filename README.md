@@ -1,4 +1,4 @@
-# Three-Dimensional Non-Linear Finite Element Analysis for Reinforced Concrete Structures [3DNLFEA-RCS]
+# Three-Dimensional Non-Linear Finite Element Analysis [3DNLFEA]
 Bambang Piscesa1, Mario M. Attard2, Ali K. Samani2
 
 1Civil Engineering Department - Institut Teknologi Sepuluh Nopember, Surabaya 60111, East Java, Indonesia
