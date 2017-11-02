@@ -1,9 +1,9 @@
 # Three-Dimensional Non-Linear Finite Element Analysis for Reinforced Concrete Structures [3DNLFEA-RCS]
 Bambang Piscesa1, Mario M. Attard2, Ali K. Samani2
 
-1) Civil Engineering Department - Institut Teknologi Sepuluh Nopember, Surabaya 60111, East Java, Indonesia
+1Civil Engineering Department - Institut Teknologi Sepuluh Nopember, Surabaya 60111, East Java, Indonesia
 
-2) School of Civil and Environmental Engineering - The University of New South Wales, Sydney NSW 2052, Australia
+2School of Civil and Environmental Engineering - The University of New South Wales, Sydney NSW 2052, Australia
 
 The aim for this project is to develop three-dimensional non-linear finite element analysis for reinforced concrete structures. The project was initially started in 2014. The project is now under heavy development to improve the efficiency in the computation, as well as the stability of the program. The program is written in C# with .Net 4.6.2 platform. Several external library such as Intel MKL, Cloo.Net and ManagedCuda were integrated into the program. Up-to-date, the program is able to handle up to 100,000 hexahedral element using a computer with 16 GB memory.
 
